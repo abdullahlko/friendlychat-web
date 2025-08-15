@@ -1,0 +1,9 @@
+/node_modules
+/dist
+.angular
+src/app/app.config.ts
+
+# Firebase
+.firebase
+*-debug.log
+.runtimeconfig.json
